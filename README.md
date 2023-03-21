@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [@githubhandle](https://github.com/lawrahkonwea)
 - Twitter: [@twitterhandle](https://twitter.com/lawrah_xo)
-- LinkedIn: [LinkedIn]()
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amakalaurakonwea/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
