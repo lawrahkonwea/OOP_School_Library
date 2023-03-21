@@ -77,19 +77,14 @@ Clone this repository to your desired folder:
   cd school_library
 ```
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/lawrahkonwea)
+- Twitter: [@twitterhandle](https://twitter.com/lawrah_xo)
+- LinkedIn: [LinkedIn]()
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
