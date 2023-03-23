@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [@githubhandle](https://github.com/lawrahkonwea)
 - Twitter: [@twitterhandle](https://twitter.com/lawrah_xo)
-- LinkedIn: [LinkedIn]()
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amakalaurakonwea/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -99,7 +99,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project kindly give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,8 +111,8 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/lawrahkonwea/OOP_School_Library/blob/school_lib_classes/LICENSE.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+_NOTE: we recommend using the [MIT license](https://github.com/lawrahkonwea/OOP_School_Library/blob/school_lib_classes/LICENSE.md) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
