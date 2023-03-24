@@ -16,7 +16,7 @@ class Person < Nameable
   end
 
   def correct_name
-    @correctable_name = name
+    @name = name
   end
 
   def can_use_services?
