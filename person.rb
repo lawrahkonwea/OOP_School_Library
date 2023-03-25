@@ -1,12 +1,12 @@
-require './nameable'
-require './capitalize_decorator'
-require './trimmer'
+require_relative './nameable'
+require_relative './capitalize_decorator'
+require_relative './trimmer'
 
 class Person < Nameable
   attr_reader :id
   attr_accessor :name, :age, :rentals
 
-  def initialize(age, name: 'unknown', parent_permission: true)
+  def initialize(age, name, parent_permission)
     super()
     @id = Random.rand(1..200)
     @name = name
@@ -16,7 +16,7 @@ class Person < Nameable
   end
 
   def correct_name
-    @correctable_name = name
+    @name = name
   end
 
   def can_use_services?

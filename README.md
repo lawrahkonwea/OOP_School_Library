@@ -14,10 +14,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -40,6 +37,7 @@
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
+  <summary>Ruby</summary>
 </details>
 
 ### Key Features <a name="key-features"></a>
@@ -76,6 +74,13 @@ Clone this repository to your desired folder:
 ```sh
   cd school_library
 ```
+### Future Features <a name="future-features"></a>
+
+- Add a mobile view to the project
+- Include Navbars for easy assessibility
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Author <a name="authors"></a>
 
@@ -105,7 +110,7 @@ If you like this project kindly give it a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank Microverse and all the code reviewers for their constant support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
