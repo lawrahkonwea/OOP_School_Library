@@ -1,4 +1,4 @@
-require './app'
+require_relative './app'
 
 def main
   app = App.new
@@ -41,3 +41,5 @@ def user_input
   end
   input
 end
+
+main
