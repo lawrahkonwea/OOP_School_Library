@@ -21,6 +21,8 @@ class Menu
     end
   end
 
+  private
+
   def menu
     puts 'Choose your option by entering a number:'
     puts '1 - List all Books.'
