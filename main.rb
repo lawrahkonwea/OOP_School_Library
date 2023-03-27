@@ -2,7 +2,7 @@ require_relative './app'
 
 def main
   app = App.new
-  puts "\nWelcome School Library of Waris!\n\n"
+  puts "\nWelcome to the School Library!\n\n"
   display_menu(app)
 end
 
