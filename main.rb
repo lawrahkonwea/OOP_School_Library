@@ -46,8 +46,9 @@ end
 
 def main
   app = App.new
+  menu = Menu.new(app)
   puts "\nWelcome to the School Library!\n\n"
-  display_menu(app)
+  menu.display_menu
 end
 
 main
