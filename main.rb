@@ -5,17 +5,17 @@ class Menu
     @app = app
   end
 
-  def display_menu(app) # rubocop:disable Metrics/CyclomaticComplexity
+  def display_menu # rubocop:disable Metrics/CyclomaticComplexity
     loop do
       menu
       input = user_input
       case input
-      when 1 then app.list_books
-      when 2 then app.list_people
-      when 3 then app.create_person
-      when 4 then app.create_book
-      when 5 then app.create_rental
-      when 6 then app.list_rentals
+      when 1 then @app.list_books
+      when 2 then @app.list_people
+      when 3 then @app.create_person
+      when 4 then @app.create_book
+      when 5 then @app.create_rental
+      when 6 then @app.list_rentals
       when 7 then break
       end
     end
@@ -47,6 +47,5 @@ def main
   puts "\nWelcome School Library of Waris!\n\n"
   display_menu(app)
 end
-
 
 main
