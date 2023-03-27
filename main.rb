@@ -1,6 +1,10 @@
 require_relative './app'
 
 class Menu
+  def initialize(app)
+    @app = app
+  end
+
   def display_menu(app) # rubocop:disable Metrics/CyclomaticComplexity
     loop do
       menu
