@@ -1,9 +1,11 @@
+require 'json'
 require_relative './book'
 require_relative './classroom'
 require_relative './person'
 require_relative './rental'
 require_relative './student'
 require_relative './teacher'
+require_relative './preserve'
 
 class App
   def initialize
@@ -45,6 +47,8 @@ class App
     end
     puts "Person created successfully \n\n"
   end
+  
+
 
   def create_book
     print 'Title: '
@@ -52,6 +56,7 @@ class App
     print 'Author: '
     author = gets.chomp
     @books << Book.new(title, author)
+    save_books
     puts "Book created successfully\n\n"
   end
 
@@ -67,6 +72,7 @@ class App
     print 'Date: '
     date = gets.chomp
     @rentals << Rental.new(date, @people[person_number], @books[book_number])
+    save_rentals
     puts "Rental created successfully \n\n"
   end
 
